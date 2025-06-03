@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeafBolt8
 - 👀 I’m interested in aviation!
 - 🌱 I’m currently learning C#, JavaScript, and Node.js!
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate on typing npm run build in the terminal and pressing enter for 600 times a day
 - 📫 How to reach me: discord, or approach me irl lol
 - 😄 Pronouns: yes/no
 - ⚡ Fun fact: mesi
