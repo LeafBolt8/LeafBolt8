@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LeafBolt8
 - 👀 I’m interested in aviation!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, JavaScript, and Node.js!
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me: discord
+- 📫 How to reach me: discord, or approach me irl lol
 - 😄 Pronouns: yes/no
-- ⚡ Fun fact: wow
+- ⚡ Fun fact: mesi
 
 <!---
 LeafBolt8/LeafBolt8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
